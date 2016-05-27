@@ -303,17 +303,17 @@ Https://Github.com/solid021/TeleBeyond
 
 ▶️Sudo Users :
 
-Developer&Founder : @SoLiD021
+Developer&Founder : pourya
 
-Developer&Manager : @MrHalix
+Developer&Manager : mahdifucker
 
-Developer&Manager : @idivanmanheb
+Developer&Manager : .......
 
 #⃣Team Channel :
-✌️ @BeyondTeam ✌️
+✌️ @stargp_team ✌️
 
 ❤️Special Thx To :
-Beyond Team
+stargp Team
 And All My Friends :D
 ]],
     help_text_realm = [[
